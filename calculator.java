@@ -2,7 +2,7 @@ package junitTutorial;
 
 public class calculator {
 
-    int add(int a, int b) {
+    int plus(int a, int b) {
     	if(a<0) {
     		a=a+1;
     	}
